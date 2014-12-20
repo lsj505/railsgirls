@@ -1,0 +1,29 @@
+// Place all the styles related to the home controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+#header {
+  background-color: rgba(191, 179, 208, 0.61);
+  h1 {
+	font-size: 30px;
+  }
+}
+
+#footer {
+  background-color: rgba(190, 208, 26, 0.61);
+  p {
+	font-size: 20px;
+  }
+  p:hover {
+  	background-color: red;
+  }
+}
+
+.banner {
+  padding: 50px;
+}
+
+.adverise {
+  margin: 10px;
+  padding-top: 10px;
+}
